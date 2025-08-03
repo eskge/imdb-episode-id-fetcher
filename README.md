@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # \# 🎬 IMDb Title ID Fetcher
 
 A lightweight Streamlit app to fetch **IMDb Title IDs**, **season numbers**, and **episode numbers** for any web/TV series using IMDb datasets.
